@@ -1,0 +1,32 @@
+img{
+    float:right;
+    border: 2px;
+    width:20%;
+    height:20%;
+    padding:2px;
+    margin:2px;
+    
+}
+input[type="password"]{
+    
+  padding-left: 10px;
+    width:10%;
+  background-color:cornsilk;
+   
+    
+}
+input[type="email"]{
+    
+    padding-left: 10px;
+    width:10%;
+    background-color: cornsilk;
+     
+      
+  }
+  input[type="button"] {
+   
+    
+    color:azure;
+    background-color: black;
+    width:10%;
+  }
